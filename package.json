@@ -1,0 +1,23 @@
+{
+  "name": "lg-wk18-bookstore",
+  "version": "0.1.0",
+  "description": "lg project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjfwalker/bookstore2.git"
+  },
+  "author": "",
+  "contributors":[
+    "TJ Walker <tjfwalker+npm@gmail.com>",
+    "Yaseen Agag <yaseen.uc@gmail.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tjfwalker/bookstore2/issues"
+  },
+  "homepage": "https://github.com/tjfwalker/bookstore2#readme"
+}
